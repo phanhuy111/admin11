@@ -1,0 +1,140 @@
+.productlist{
+    margin-left: 280px;
+    margin-top: 40px;
+}
+
+.orderpage{
+    margin-left: 280px;
+    margin-top: 40px;
+}
+
+.reviewpage{
+    margin-left: 280px;
+    margin-top: 40px;
+}
+
+.bando{
+    margin-left: 280px;
+    margin-top: 40px;
+}
+
+.tren .row {
+    margin-left: 118px;
+}
+
+.giua .row{
+    margin-left: 118px;
+    margin-top: 69px;
+}
+
+.duoi {
+    margin-left: 188px;
+    margin-top: 40px;
+}
+
+
+.motbox {
+    display: -webkit-box;
+    padding: 10px 10px;
+}
+
+p.tieude {
+    padding-left: 25px;
+    padding-right: 150px;
+}
+
+span.met {
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+.tieudesua{
+    cursor: none;
+    color: #3498db;
+    padding-left: 25px;
+    padding-right: 150px;
+}
+
+
+.so1 {
+    display: -webkit-box;
+    padding: 6px 14px;
+}
+
+p.cach {
+    padding-right: 155px;
+}
+
+span.dauthem { 
+    background-color: cornflowerblue;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    padding: 5px 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.dauthemdautien {
+    width: 25px;
+    height: 25px;
+    margin-left: 370px;
+}
+
+.chu h1 {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #3498db;
+    margin: 2px 50px;
+    padding-bottom: 45px;
+}
+
+.doanhthu h1 {
+    font-size: 25px;
+    padding: 6px 20px;
+}
+
+.doanhthu p {
+    font-size: 23px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #3498db;
+}
+
+svg.MuiSvgIcon-root-1 {
+    margin: 4px 40px;
+    font-size: 53px;
+    color: #444444;
+}
+
+.nutchinh {
+    margin-left: 195px;
+}
+
+input.metqua {
+    border: 1px solid bisque;
+    width: 200px;
+    border-radius: 1px;
+    border-right: 0;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+
+input.nutsave {
+    border: 1px solid transparent;
+    background-color: #ffc5c5;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input.nutsave:hover{
+    background-color: black;
+    color: white;
+    transition:0.3s
+}
+
+.nutchinh span {
+    margin-left: 135px;
+    cursor: pointer;
+}
